@@ -1,5 +1,5 @@
 # ePaper
-Software for controlling ePaper display based on motion sensor
+Software for controlling ePaper display
 
 See 'Blog Henri Matthijssen' for instructions for the hardware and setup
 http://matthijsseninfo.nl
