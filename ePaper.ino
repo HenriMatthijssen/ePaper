@@ -5,7 +5,7 @@
 //               See 'Blog Henri Matthijssen' for instructions for the hardware and setup
 //               http://matthijsseninfo.nl
 //
-//               (c) 2021 Henri Matthijssen (henri@matthijsseninfo.nl)
+//               (c) 2025 Henri Matthijssen (henri@matthijsseninfo.nl)
 //
 //               Please do not distribute without permission of the original author and 
 //               respect his time and work spent on this.
