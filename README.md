@@ -1,5 +1,5 @@
 # ePaper
-Software for controlling ePaper display
+Software for controlling ePaper display from WaveShare
 
 See 'Blog Henri Matthijssen' for instructions for the hardware and setup
 http://matthijsseninfo.nl
